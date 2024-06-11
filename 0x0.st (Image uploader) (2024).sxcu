@@ -1,0 +1,10 @@
+﻿{
+  "Version": "16.1.0",
+  "Name": "0x0.st (Image uploader)",
+  "DestinationType": "FileUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://0x0.st",
+  "Body": "MultipartFormData",
+  "FileFormName": "file",
+  "URL": "{response}"
+}
